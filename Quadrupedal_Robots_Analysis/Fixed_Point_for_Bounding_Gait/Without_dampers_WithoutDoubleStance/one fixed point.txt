@@ -1,0 +1,11 @@
+initial guess:
+[y  theta  xdot  thetadot] = [0.35 m ,0 rad ,0.66 m/s ,6 rad]
+[back touchdown angle, front touchdown angle] = [0.226892803 rad ,0.191986218 rad]
+
+The Corresponding Jacobian Matrix is:
+-0.181666  0.928165 7.757836  16.667972  
+-0.605099  0.488540 1.574257  12.774966  
+-0.327444  -0.712598 5.444978  0.561271 
+-0.025014  -0.001343 0.213897  1.265000 The e-values of Jacobian are : 4.692416	 0.662244	 0.662244	 0.999948	  
+The fixed point is [0.325814	 -0.000000	 0.673839	 6.117373	]; The iteration is 24 
+WARNING:  The system is NOT stable.
