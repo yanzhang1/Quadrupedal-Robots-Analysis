@@ -1,0 +1,54 @@
+initial conditions [0.35  1]  % [y xdot]     input :   touchdown angle :0.089*pi rad
+
+Elapsed time is 0.927368 seconds.
+The Corresponding Jacobian Matrix is:
+1.615695  -6.443557   
+-0.113342  2.186138 
+ The e-values of Jacobian are : 0.999984	 2.801848	 
+The fixed point is [0.332602	 0.937332	 ]; The iteration is 27 
+WARNING:  The system is NOT stable.
+
+
+
+
+
+
+initial condition [0.35 1] % [y   xdot]     input:   touchdown angle : 0.27893 rad
+
+The Corresponding Jacobian Matrix is:
+1.377655  -3.704679   
+-0.138343  2.357065 
+ The e-values of Jacobian are : 0.999993	 2.734727	 
+The fixed point is [0.350008	 0.999997	 ]; The iteration is 2 
+WARNING:  The system is NOT stable.
+
+ans =
+
+    0.3500    1.0000
+
+
+
+
+
+
+
+
+
+
+Already changed the mass and leg leg length!!!!!!!!
+
+
+
+initial condition [0.35 1 ]     input :[0.291]  rad
+
+Elapsed time is 1.228539 seconds.
+The Corresponding Jacobian Matrix is:
+2.230632  -14.189892   
+-0.112918  2.301967 
+ The e-values of Jacobian are : 0.999982	 3.532617	 
+The fixed point is [0.315811	 0.850752	 ]; The iteration is 38 
+WARNING:  The system is NOT stable.
+
+ans =
+
+    0.3158    0.8508

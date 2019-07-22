@@ -1,0 +1,11 @@
+initial guess: 
+[y , theta , xdot , thetadot] = [0.36 m  ,0 rad  ,    0.7 m/s   ,  0.197 rad/s]
+[phib_td,phif_td] = [0.226892803 rad ,0.191986218 rad] = [13 deg, 11 deg]
+
+The Corresponding Jacobian Matrix is:
+1.476879  0.629203 -7.558983  4.675642  
+-0.035126  2.047276 -0.155807  27.243489  
+-0.110031  -0.063696 2.725256  -0.352196 
+0.001253  0.070911 -0.035806  1.629903 The e-values of Jacobian are : 3.423708	 3.013005	 0.999985	 0.442617	  
+The fixed point is [0.330314	 -0.000000	 0.628266	 0.260504	]; The iteration is 44 
+WARNING:  The system is NOT stable.
